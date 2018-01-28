@@ -1,0 +1,22 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "simple plataforma de IoT Platform db-module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lm869/platziverse.git"
+  },
+  "author": "Leonardo Moreno <leonardomoreno57@gmail.com> (www.codessign.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lm869/platziverse/issues"
+  },
+  "homepage": "https://github.com/lm869/platziverse#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
